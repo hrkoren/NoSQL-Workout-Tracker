@@ -30,6 +30,7 @@ In order to use the Fitness Tracker application, you will need to follow the fol
 
 This program can be used with permission.\
 Go to the Heroku deployment:
+[Fitness Tracker](https://still-basin-43953.herokuapp.com/?id=60a922f71aefe70015a2f2bc)
 
 ---
 
